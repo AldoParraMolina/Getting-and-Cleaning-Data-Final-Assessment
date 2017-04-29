@@ -6,5 +6,30 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ## Processing data
 
-From the data mentioned before, were extracted only the measurements on the mean and standard deviation for each measurement.Then Appropriately labels the data set with descriptive variable names.
+From the data mentioned before, were extracted only the measurements on the mean and standard deviation for each measurement. Then the columns are appropriately rename with descriptive variable names.
 Finally a independent tidy data set with the average of each variable for each activity and each subject was created.
+
+## Variables 
+
+|ID | Variable |
+|---|---|
+|1 |                                 Subject|
+|2  |                              Activity|
+|3   |                TimeBodyAccelerometer|
+|4    |            TimeGravityAccelerometer|
+|5     |          TimeBodyAccelerometerJerk|
+|6      |                 TimeBodyGyroscope|
+|7       |            TimeBodyGyroscopeJerk|
+|8|          TimeBodyAccelerometerMagnitude|
+|9 |      TimeGravityAccelerometerMagnitude|
+|10 |     TimeBodyAccelerometerJerkMagnitude|
+|11  |            TimeBodyGyroscopeMagnitude|
+|12   |       TimeBodyGyroscopeJerkMagnitude|
+|13    |          FrequencyBodyAccelerometer|
+|14     |     FrequencyBodyAccelerometerJerk|
+|15      |            FrequencyBodyGyroscope|
+|16|     FrequencyBodyAccelerometerMagnitude|
+|17 |FrequencyBodyAccelerometerJerkMagnitude|
+|18  |       FrequencyBodyGyroscopeMagnitude|
+|19   |  FrequencyBodyGyroscopeJerkMagnitude|
+|20    |                         Activity_id|

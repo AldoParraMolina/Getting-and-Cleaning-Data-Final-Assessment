@@ -6,3 +6,5 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ## Processing data
 
+From the data mentioned before, were extracted only the measurements on the mean and standard deviation for each measurement.Then Appropriately labels the data set with descriptive variable names.
+Finally a independent tidy data set with the average of each variable for each activity and each subject was created.

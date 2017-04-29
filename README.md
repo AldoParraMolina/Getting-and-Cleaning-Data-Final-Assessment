@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Final-Assessment
 
-This repo contains **run_analysis.R** sript, used to create a tidy data set from data collected from the accelerometers from the Samsung Galaxy S smartphone. Bellow you will find a little explanaition abuot how the code works.
+This repo contains **run_analysis.R** sript, used to create a tidy data set from data collected from the accelerometers from the Samsung Galaxy S smartphone. Bellow you will find a little explanaition about how the code works.
 
 ## run_analysis.R
 
